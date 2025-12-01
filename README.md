@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/bittjs/Jolly-Spisok/main/favicon.svg">
+<img height="40px" src="https://raw.githubusercontent.com/bittjs/Jolly-Spisok/main/favicon.svg">
 Jolly Spisok
 </h1>
 <p align="center">
@@ -55,6 +55,7 @@ git clone https://github.com/bittjs/Jolly-Spisok.git
 <p align="center">
   <i>Первый и надеюсь не последний мини-проектик этого месяца, познакомился с jquery ✨</i>
 </p>
+
 
 
 
