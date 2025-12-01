@@ -26,7 +26,7 @@ Jolly Spisok
 
 ### Как использовать?
 
-пока никак
+[ТЫК ПО ССЫЛКЕ](https://bittjs.github.io/Jolly-Spisok/)
 
 ##  Технические детали:
 
@@ -55,6 +55,7 @@ git clone https://github.com/bittjs/Jolly-Spisok.git
 <p align="center">
   <i>Первый и надеюсь не последний мини-проектик этого месяца, познакомился с jquery ✨</i>
 </p>
+
 
 
 
